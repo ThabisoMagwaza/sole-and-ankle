@@ -27,7 +27,7 @@ const Wrapper = styled.div`
   color: ${COLORS.gray[300]};
   background-color: ${COLORS.gray[900]};
 
-  height: 40px;
+  height: ${40 / 16}rem;
 
   padding-inline: 32px;
 
